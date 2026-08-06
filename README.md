@@ -80,7 +80,7 @@ Deep Learning application for retinal disease classification using TensorFlow wi
 
 ---
 
-## 🍽️ [Restaurant Recommendation System](https://github.com/ashok-shetti/restaurant-recommendation-system)
+## 🍽️ [Restaurant Recommendation System](https://github.com/ashok-shetti/restaurant_recsystem)
 
 Recommendation engine that suggests restaurants using content-based filtering with an API for fast and scalable recommendations.
 
@@ -91,7 +91,7 @@ Recommendation engine that suggests restaurants using content-based filtering wi
 # 📂 Other Projects
 
 - ♻️ [Smart Waste Management System](https://github.com/ashok-shetti/smart-waste-management)
-- 📊 [ML Data Drift Monitoring](https://github.com/ashok-shetti/ml-data-drift-monitoring)
+- 📊 [ML Data Drift Monitoring](https://github.com/ashok-shetti/ml_data_drift_monitoring)
 - ☁️ [Tele Support Hub](https://github.com/ashok-shetti/tele-support-hub)
 
 ---
