@@ -90,9 +90,9 @@ Recommendation engine that suggests restaurants using content-based filtering wi
 
 # 📂 Other Projects
 
-- ♻️ Smart Waste Management System
-- 📊 ML Data Drift Monitoring
-- ☁️ Tele Support Hub
+- ♻️ [Smart Waste Management System](https://github.com/ashok-shetti/smart-waste-management)
+- 📊 [ML Data Drift Monitoring](https://github.com/ashok-shetti/ml-data-drift-monitoring)
+- ☁️ [Tele Support Hub](https://github.com/ashok-shetti/tele-support-hub)
 
 ---
 
